@@ -1,6 +1,6 @@
-import 'package:cinnamon_app/screens/login_form.dart';
+import 'package:cinnamon_app/widgets/login_form.dart';
 import 'package:flutter/material.dart';
-import 'package:cinnamon_app/constants.dart';
+import 'package:cinnamon_app/helpers/constants.dart';
 
 void main() {
   runApp(MaterialApp(

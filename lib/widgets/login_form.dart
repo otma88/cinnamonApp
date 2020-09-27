@@ -1,7 +1,7 @@
 import 'package:cinnamon_app/screens/home_screen.dart';
-import 'package:cinnamon_app/validator.dart';
+import 'package:cinnamon_app/helpers/validator.dart';
 import 'package:flutter/material.dart';
-import 'package:cinnamon_app/constants.dart';
+import 'package:cinnamon_app/helpers/constants.dart';
 
 class LoginForm extends StatefulWidget {
   @override
