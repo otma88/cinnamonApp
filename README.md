@@ -1,4 +1,4 @@
-# cinnamon_app
+# movie_app
 
 Flutter candidate assignment
 
