@@ -27,7 +27,7 @@ class LoginScreenState extends State<LoginScreen> {
               child: Container(
                 alignment: Alignment.center,
                 child: Text(
-                  "CinnamonApp",
+                  "MovieApp",
                   style: TextStyle(fontSize: 30.0, color: kPrimaryColor, fontWeight: FontWeight.bold),
                 ),
               ),
